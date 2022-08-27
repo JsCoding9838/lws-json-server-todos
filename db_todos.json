@@ -1,0 +1,53 @@
+{
+  "todos": [
+    {
+      "text": "Learn React",
+      "completed": true,
+      "isEditable": false,
+      "id": 1,
+      "color": "red"
+    },
+    {
+      "text": "javaScript Practice",
+      "completed": true,
+      "isEditable": false,
+      "id": 2,
+      "color": "green"
+    },
+    {
+      "text": "learn row javaScript",
+      "completed": true,
+      "isEditable": false,
+      "id": 3,
+      "color": "red"
+    },
+    {
+      "text": "React_redux",
+      "completed": false,
+      "isEditable": false,
+      "id": 4,
+      "color": "red"
+    },
+    {
+      "text": "learn redux tolkit",
+      "completed": true,
+      "isEditable": false,
+      "id": 5,
+      "color": "green"
+    },
+    {
+      "text": "redux thunk",
+      "completed": false,
+      "isEditable": false,
+      "id": 6,
+      "color": "yellow"
+    },
+    {
+      "text": "RTK Querry",
+      "completed": true,
+      "isEditable": false,
+      "id": 7,
+      "color": "green"
+    }
+  ]
+}
